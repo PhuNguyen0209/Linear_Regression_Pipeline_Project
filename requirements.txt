@@ -5,7 +5,7 @@ seaborn
 scikit-learn
 catboost
 xgboost
-
+dill
 # in the command terminal: to install these packages
 # pip install -r requirements.txt
 # or in the notebook: !pip install -r requirements.txt
