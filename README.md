@@ -35,8 +35,10 @@ The project structure is modular and designed with **production best practices**
 ```bash
 git clone https://github.com/PhuNguyen0209/MLproject.git
 cd MLproject
+```
 
 ## 📁 Project Structure
+
 .
 ├─ app.py # Flask app entrypoint
 ├─ src/ # Core ML pipeline modules
@@ -51,4 +53,7 @@ cd MLproject
 ├─ setup.py # Project metadata for packaging
 ├─ .gitignore # Ignored files for git
 └─ README.md # Project documentation
+
+```
+
 ```
