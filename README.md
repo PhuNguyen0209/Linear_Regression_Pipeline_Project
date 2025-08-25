@@ -39,7 +39,7 @@ cd MLproject
 
 ## 📁 Project Structure
 
-.
+```bash
 ├─ app.py # Flask app entrypoint
 ├─ src/ # Core ML pipeline modules
 │ ├─ pipeline/ # Data transformation, training, prediction pipeline
@@ -53,7 +53,4 @@ cd MLproject
 ├─ setup.py # Project metadata for packaging
 ├─ .gitignore # Ignored files for git
 └─ README.md # Project documentation
-
-```
-
 ```
