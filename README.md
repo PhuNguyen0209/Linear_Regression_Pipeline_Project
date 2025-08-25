@@ -1,4 +1,4 @@
-# MLproject — End-to-End ML with Linear Regression, Flask
+# MLproject — End-to-End ML Score Prediction with Linear Regression, Flask
 
 [![CI](https://img.shields.io/badge/CI-passing-brightgreen.svg)]()
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)]()
