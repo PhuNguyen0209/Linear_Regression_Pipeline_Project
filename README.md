@@ -59,9 +59,12 @@ git clone https://github.com/PhuNguyen0209/Linear_Regression_Pipeline_Project.gi
 cd Linear_Regression_Pipeline_Project
 pip install -r requirements.txt
 
+```
+
 ---
 
 ## 📊 Results & Impact
+
 - Achieved **R² ≈ 0.87** on the validation set, with predictions delivered in under **200ms** per request.
 - Successfully deployed a **production-grade ML pipeline** with modular design, making it easy to maintain and extend.
 - Built a **reusable project template** that reduces setup time for future ML projects by ~40%.
@@ -72,10 +75,14 @@ pip install -r requirements.txt
 ---
 
 ## 🔮 Future Enhancements
+
 - **Enhanced Input Validation**: Add stricter schema checks and error handling for robustness.
 - **Algorithm Expansion**: Extend support to Ridge, Lasso, and ensemble methods (Random Forest, XGBoost).
 - **Scalable Deployment**: Deploy to cloud platforms (AWS/GCP/Azure) with auto-scaling and CI/CD pipelines.
 - **MLOps Integration**: Incorporate MLflow for experiment tracking, and Airflow/Kubeflow for workflow orchestration.
 - **Advanced Monitoring**: Add drift detection, performance dashboards, and automated retraining pipelines.
 - **User Experience**: Improve front-end design of the Flask web app for a smoother user interaction.
+
+```
+
 ```
